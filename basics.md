@@ -33,8 +33,8 @@ Beautiful and extensive reporting for macOS.
 
 ```sh
 # download release and install
-curl -LJO https://github.com/munkireport/munkireport-php/releases/download/v5.4.1/munkireport-php-v5.4.1.zip
-unzip ./munkireport-php-v5.4.1.zip -d munkireport-php
+curl -LJO https://github.com/munkireport/munkireport-php/releases/download/v5.5.1/munkireport-php-v5.5.1.zip
+unzip ./munkireport-php-v5.5.1.zip -d munkireport-php
 cd munkireport-php
 echo 'AUTH_METHODS="NOAUTH"' > .env
 php database/migrate.php

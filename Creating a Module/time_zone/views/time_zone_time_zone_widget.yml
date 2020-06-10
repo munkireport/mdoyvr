@@ -1,0 +1,8 @@
+type: scrollbox
+widget_id: time_zone-time_zone-scrollbox-widget
+api_url: /module/time_zone/get_list/time_zone
+i18n_title: time_zone.widget.time_zone_title
+icon: fa-laptop
+listing_link: /show/listing/time_zone/time_zone
+search_key: label
+badge: count

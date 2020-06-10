@@ -1,0 +1,5 @@
+row1:
+    time_zone_time_zone: {  }
+    time_zone_network_time_server: {  }
+    time_zone_network_time_enabled: {  }
+    time_zone_auto_time_zone: {  }

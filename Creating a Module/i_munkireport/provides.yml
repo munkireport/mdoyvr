@@ -1,0 +1,19 @@
+client_tabs:
+    i_munkireport:
+        view: i_munkireport_tab
+        i18n: i_munkireport.title
+listings:
+    i_munkireport:
+        view: i_munkireport_listing
+        i18n: i_munkireport.listing.title
+reports:
+    i_munkireport:
+        view: i_munkireport_report
+        i18n: i_munkireport.report.title
+widgets:
+    i_munkireport_field_1:
+        view: i_munkireport_field_1_widget
+    i_munkireport_field_2:
+        view: i_munkireport_field_2_widget
+    i_munkireport_field_3:
+        view: i_munkireport_field_3_widget

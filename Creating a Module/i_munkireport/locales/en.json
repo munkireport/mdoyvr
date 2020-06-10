@@ -1,0 +1,19 @@
+{
+    "column": {
+        "field_1": "Field 1",
+        "field_2": "Field 2",
+        "field_3": "Field 3"
+    },
+    "listing": {
+        "title": "I \u2764\ufe0f MunkiReport"
+    },
+    "report": {
+        "title": "I \u2764\ufe0f MunkiReport"
+    },
+    "title": "I \u2764\ufe0f MunkiReport",
+    "widget": {
+        "field_1_title": "Field 1",
+        "field_2_title": "Field 2",
+        "field_3_title": "Field 3"
+    }
+}

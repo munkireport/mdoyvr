@@ -1,0 +1,8 @@
+type: scrollbox
+widget_id: i_munkireport-field_2-scrollbox-widget
+api_url: /module/i_munkireport/get_list/field_2
+i18n_title: i_munkireport.widget.field_2_title
+icon: fa-laptop
+listing_link: /show/listing/i_munkireport/i_munkireport
+search_key: label
+badge: count

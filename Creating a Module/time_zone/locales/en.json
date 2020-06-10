@@ -1,0 +1,21 @@
+{
+    "column": {
+        "time_zone": "Time Zone",
+        "network_time_server": "Network Time Server",
+        "network_time_enabled": "Network Time Enabled",
+        "auto_time_zone": "Auto Time Zone"
+    },
+    "listing": {
+        "title": "Time Zone"
+    },
+    "report": {
+        "title": "Time Zone"
+    },
+    "title": "Time Zone",
+    "widget": {
+        "time_zone_title": "Time Zone",
+        "network_time_server_title": "Network Time Server",
+        "network_time_enabled_title": "Network Time Enabled",
+        "auto_time_zone_title": "Auto Time Zone"
+    }
+}

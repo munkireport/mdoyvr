@@ -1,0 +1,18 @@
+i18n_title: time_zone.listing.title
+table:
+    -   column: machine.computer_name
+        i18n_header: listing.computername
+        formatter: clientDetail
+        tab_link: time_zone
+    -   column: reportdata.serial_number
+        i18n_header: serial
+    -   column: time_zone.time_zone
+        i18n_header: time_zone.column.time_zone
+    -   column: time_zone.network_time_server
+        i18n_header: time_zone.column.network_time_server
+    -   column: time_zone.network_time_enabled
+        i18n_header: time_zone.column.network_time_enabled
+        formatter: binaryYesNo
+    -   column: time_zone.auto_time_zone
+        i18n_header: time_zone.column.auto_time_zone
+        formatter: binaryYesNo

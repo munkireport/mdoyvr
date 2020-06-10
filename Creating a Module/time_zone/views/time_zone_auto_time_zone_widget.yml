@@ -1,0 +1,13 @@
+type: button
+widget_id: time_zone-auto_time_zone-button-widget
+api_url: /module/time_zone/get_list/auto_time_zone
+i18n_title: time_zone.widget.auto_time_zone_title
+icon: fa-laptop
+listing_link: /show/listing/time_zone/time_zone
+buttons:
+  - label: "0"
+    i18n_label: off
+    class: btn-danger
+  - label: "1"
+    i18n_label: on
+    class: btn-success

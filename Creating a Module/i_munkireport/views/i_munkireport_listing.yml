@@ -1,0 +1,14 @@
+i18n_title: i_munkireport.listing.title
+table:
+    -   column: machine.computer_name
+        i18n_header: listing.computername
+        formatter: clientDetail
+        tab_link: i_munkireport
+    -   column: reportdata.serial_number
+        i18n_header: serial
+    -   column: i_munkireport.field_1
+        i18n_header: i_munkireport.column.field_1
+    -   column: i_munkireport.field_2
+        i18n_header: i_munkireport.column.field_2
+    -   column: i_munkireport.field_3
+        i18n_header: i_munkireport.column.field_3
